@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Still...",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-03-23T17:33:52.133792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Still Alive",
+      "artist": "Aperture Science Psychoacoustics Laboratory",
+      "has_synced": true,
+      "path": "select/01_Still_Alive_Aperture_Science_Psychoacoustics_Laboratory.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Still Alive",
+      "artist": "Aperture Science Psychoacoustics Laboratories",
+      "has_synced": true,
+      "path": "select/02_Still_Alive_Aperture_Science_Psychoacoustics_Laboratories.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feel It Still",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/03_Feel_It_Still_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "And Still",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/04_And_Still_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Still Standing",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/05_I'm_Still_Standing_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
+      "artist": "Kelly Clarkson feat. Dolly Parton",
+      "has_synced": true,
+      "path": "select/06_9_to_5_(FROM_THE_STILL_WORKING_9_TO_5_DOCUMENTARY)_Kelly_Clarkson_feat._Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/07_9_to_5_(FROM_THE_STILL_WORKING_9_TO_5_DOCUMENTARY)_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Are the Good Times Really Over (I Wish a Buck Was Still Silver) - Single Version",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/08_Are_the_Good_Times_Really_Over_(I_Wish_a_Buck_Was_Still_Silver)_-_Single_Version_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Are The Good Times Really Over (I Wish A Buck Was Still Silver) (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/09_Are_The_Good_Times_Really_Over_(I_Wish_A_Buck_Was_Still_Silver)_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beneath Still Waters (2008 Remastered Album Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/10_Beneath_Still_Waters_(2008_Remastered_Album_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beneath Still Waters (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/11_Beneath_Still_Waters_(Remastered_LP_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bob Wills Is Still The King",
+      "artist": "Asleep at the Wheel feat. Clint Black",
+      "has_synced": false,
+      "path": "select/12_Bob_Wills_Is_Still_The_King_Asleep_at_the_Wheel_feat._Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bob Wills Is Still The King (Album Version)",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/13_Bob_Wills_Is_Still_The_King_(Album_Version)_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Does The Wind Still Blow In Oklahoma",
+      "artist": "Reba McEntire feat. Ronnie Dunn",
+      "has_synced": true,
+      "path": "select/14_Does_The_Wind_Still_Blow_In_Oklahoma_Reba_McEntire_feat._Ronnie_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Does The Wind Still Blow In Oklahoma (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/15_Does_The_Wind_Still_Blow_In_Oklahoma_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "He Thinks I Still Care",
+      "artist": "Anne Murray",
+      "has_synced": true,
+      "path": "select/16_He_Thinks_I_Still_Care_Anne_Murray.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Can Still Feel You",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/17_I_Can_Still_Feel_You_Collin_Raye.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Can Still Feel You (Album Version)",
+      "artist": "Collin Raye",
+      "has_synced": true,
+      "path": "select/18_I_Can_Still_Feel_You_(Album_Version)_Collin_Raye.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Still...",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Still..._嵐.txt"
+    }
+  ]
+}
